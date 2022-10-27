@@ -1,4 +1,4 @@
-# vuex-ile-daha-iyi-state-yonetimi
+# Vuex-state-yonetimi
 
 > A Vue.js project
 
